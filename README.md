@@ -1,0 +1,2 @@
+# nitai
+ai startup
